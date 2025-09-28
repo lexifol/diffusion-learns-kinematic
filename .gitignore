@@ -1,2 +1,5 @@
 .DS_store
 .idea
+videos_to_process/*
+static/rollouts_unused*
+masks*
